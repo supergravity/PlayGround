@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=EgammaAnalysis
+subdirs_src_EgammaAnalysis = src_EgammaAnalysis_ElectronTools

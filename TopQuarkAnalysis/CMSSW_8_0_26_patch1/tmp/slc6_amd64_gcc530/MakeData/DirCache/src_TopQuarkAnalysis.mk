@@ -1,0 +1,2 @@
+ALL_SUBSYSTEMS+=TopQuarkAnalysis
+subdirs_src_TopQuarkAnalysis = src_TopQuarkAnalysis_Configuration
